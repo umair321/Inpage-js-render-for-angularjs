@@ -9,10 +9,10 @@ Add <strong>'ngLoadScript'</strong> to your app dependencies. E.g. angular.modul
 </li>
 <li>
 Used it as: <br/>
- <code>
+ <xmp>
 <script type="text/javascript-lazy">
 /**Your Script here**/
 </script>
- </code>
+ </xmp>
 </li>
 </ol>
