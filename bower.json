@@ -1,0 +1,23 @@
+{
+  "name": "Inpage js Render for Angularjs",
+  "homepage": "https://github.com/umair321/Inpage-js-render-for-angularjs",
+  "authors": [
+    "Umair Hamid <umair_hamid100@yahoo.com>"
+  ],
+  "description": "It is not possible to render <script> tag in html page when you are using angularjs. This module is made to overcome this problem.",
+  "main": "",
+  "keywords": [
+    "Angularjs",
+    "1",
+    "js",
+    "Render"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
