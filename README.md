@@ -12,7 +12,7 @@ Add <strong>'ngLoadScript'</strong> to your app dependencies. E.g. angular.modul
 <li>
 Used it as: <br/>
  <xmp>
-<script type="text/javascript-lazy">
+<script type="text/javascript-inpage">
 /**Your Script here**/
 </script>
  </xmp>

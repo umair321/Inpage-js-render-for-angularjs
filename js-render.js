@@ -8,7 +8,7 @@
             restrict: 'E',
             scope: false,
             link: function (scope, elem, attr) {
-                if (attr.type === 'text/javascript-lazy') {
+                if (attr.type === 'text/javascript-inpage') {
                     var code = elem.text();
                     var f = new Function(code);
                     f();
