@@ -1,5 +1,7 @@
 # Inpage-js-render-for-angularjs
 Very much easy to use:<br/>
+Install it using bower: <strong>bower install inpage-js-render-angular1</strong>
+
 <ol>
 <li>
 Just include js-render.js to your page
