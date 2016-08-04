@@ -1,5 +1,4 @@
 # Inpage-js-render-for-angularjs
-<p> It is not possible to render <script> tag in html page when you are using angularjs. This module is made to overcome this problem.</p>
 Very much easy to use:<br/>
 <ol>
 <li>
